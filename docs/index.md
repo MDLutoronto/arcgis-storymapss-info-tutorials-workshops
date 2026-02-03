@@ -3,9 +3,6 @@ title: "ArcGIS StoryMaps: Information, Tutorials, and Workshops"
 layout: "home"
 description: "ArcGIS StoryMaps is an online storytelling tool that allows users to craft and publish powerful narratives using maps."
 created_date: 2022-06-20
-staff:
-    - name: Marcel Fortin
-      link: https://library.utoronto.ca/staff/marcel-fortin
 permalink: "/"  #! Remove this if not the homepage
 ---
 
