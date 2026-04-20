@@ -28,14 +28,19 @@ Learning resources
 	+ Please note that at this time, a **UTORid and password is required** to view the videos embedded below
 
 #### [Introduction to StoryMaps](https://maps-library-utoronto-ca.myaccess.library.utoronto.ca/workshops/StoryMaps/2021/01Intro) (video)
+<iframe width="560" height="315" src="https://maps-library-utoronto-ca.myaccess.library.utoronto.ca/workshops/StoryMaps/2021/01Intro" frameborder="0" allowfullscreen> iframe not supported </iframe>
 
 #### [Explorer StoryMaps](https://maps-library-utoronto-ca.myaccess.library.utoronto.ca/workshops/StoryMaps/2021/02Explorer/) (video)
+<iframe width="560" height="315" src="https://maps-library-utoronto-ca.myaccess.library.utoronto.ca/workshops/StoryMaps/2021/02Explorer/" frameborder="0" allowfullscreen> iframe not supported </iframe>
 
 #### [Guided Tour of StoryMaps](https://maps-library-utoronto-ca.myaccess.library.utoronto.ca/workshops/StoryMaps/2021/03GuidedTour/) (video)
+<iframe width="560" height="315" src="https://maps-library-utoronto-ca.myaccess.library.utoronto.ca/workshops/StoryMaps/2021/03GuidedTour/" frameborder="0" allowfullscreen> iframe not supported </iframe>
 
 #### [SideCar StoryMaps](https://maps-library-utoronto-ca.myaccess.library.utoronto.ca/workshops/StoryMaps/2021/04SideCar/) (video)
+<iframe width="560" height="315" src="https://maps-library-utoronto-ca.myaccess.library.utoronto.ca/workshops/StoryMaps/2021/04SideCar/" frameborder="0" allowfullscreen> iframe not supported </iframe>
 
 #### [Creating a StoryMap from Scratch](https://maps-library-utoronto-ca.myaccess.library.utoronto.ca/workshops/StoryMaps/2021/05Scratch/) (video)
+<iframe width="560" height="315" src="https://maps-library-utoronto-ca.myaccess.library.utoronto.ca/workshops/StoryMaps/2021/05Scratch/" frameborder="0" allowfullscreen> iframe not supported </iframe>
 
 ### Additional resources
 
