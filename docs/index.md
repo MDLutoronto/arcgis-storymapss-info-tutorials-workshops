@@ -16,14 +16,14 @@ maintainer:
 Getting started
 ---------------
 
-* In order to access StoryMaps, you must first login to your ArcGIS Online account. Please review our tutorial, [Logging in to ArcGIS Online](https://mdl.library.utoronto.ca/technology/tutorials/logging-arcgis-online)
+* In order to access StoryMaps, you must first login to your ArcGIS Online account. Please review our tutorial, [Logging in to ArcGIS Online](https://mdlutoronto.github.io/arcgis-online-log-in/)
 
 Learning resources
 ------------------
 
 ### Workshops
 
-* [Introduction to ArcGIS StoryMaps](https://mdl.library.utoronto.ca/technology/tutorials/arcgis-storymaps), a series of short workshop videos that teaches users how to create their own StoryMap (embedded below)
+* [Introduction to ArcGIS StoryMaps](https://mdlutoronto.github.io/arcgis-storymapss/), a series of short workshop videos that teaches users how to create their own StoryMap (embedded below)
 	+ To follow along with the videos embedded below, please [download the accompanying data](https://maps-library-utoronto-ca.myaccess.library.utoronto.ca/workshops/StoryMaps/2021/StoryMaps2021.zip)
 	+ Please note that at this time, a **UTORid and password is required** to view the videos embedded below
 
@@ -47,4 +47,4 @@ Learning resources
 * [Accessing Online GIS Classes in ESRI Academy](https://mdl.library.utoronto.ca/technology/tutorials/how-access-online-gis-classes-esri-academy)
 * Consider checking with your local public library to see if they offer access to [LinkedIn Learning](https://www.linkedin.com/learning-login/go) where you will find a number of self-paced workshops for StoryMaps and other Esri software
 
-Technique: [Data Visualization](https://mdlutoronto.github.io/tutorials-search/?technique=Data+Visualization), [Mapping](https://mdlutoronto.github.io/tutorials-search/?technique=Mapping) | Tools: [ArcGIS Storymaps](https://mdlutoronto.github.io/tutorials-search/?tool=ArcGIS+Storymaps)
+**Technique:** [Data Visualization](https://mdlutoronto.github.io/tutorials-search/?technique=Data+Visualization), [Mapping](https://mdlutoronto.github.io/tutorials-search/?technique=Mapping) \| **Tools:** [ArcGIS Storymaps](https://mdlutoronto.github.io/tutorials-search/?tool=ArcGIS+Storymaps)
