@@ -23,7 +23,7 @@ Learning resources
 
 ### Workshops
 
-* [Introduction to ArcGIS StoryMaps](https://mdlutoronto.github.io/arcgis-storymapss/), a series of short workshop videos that teaches users how to create their own StoryMap (embedded below)
+* A series of short workshop videos that teaches users how to create their own StoryMap (embedded below)
 	+ To follow along with the videos embedded below, please [download the accompanying data](https://maps-library-utoronto-ca.myaccess.library.utoronto.ca/workshops/StoryMaps/2021/StoryMaps2021.zip)
 	+ Please note that at this time, a **UTORid and password is required** to view the videos embedded below
 
