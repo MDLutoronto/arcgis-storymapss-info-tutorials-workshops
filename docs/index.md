@@ -44,7 +44,7 @@ Learning resources
 
 ### Additional resources
 
-* [Accessing Online GIS Classes in ESRI Academy](https://mdl.library.utoronto.ca/technology/tutorials/how-access-online-gis-classes-esri-academy)
+* [Accessing Online GIS Classes in ESRI Academy](https://mdlutoronto.github.io/gis-class-esri-academy/)
 * Consider checking with your local public library to see if they offer access to [LinkedIn Learning](https://www.linkedin.com/learning-login/go) where you will find a number of self-paced workshops for StoryMaps and other Esri software
 
 **Technique:** [Data Visualization](https://mdlutoronto.github.io/tutorials-search/?technique=Data+Visualization), [Mapping](https://mdlutoronto.github.io/tutorials-search/?technique=Mapping) \| **Tools:** [ArcGIS Storymaps](https://mdlutoronto.github.io/tutorials-search/?tool=ArcGIS+Storymaps)
